@@ -1,1 +1,1 @@
-[]
+[{"id":"f594890d.36a118","type":"tab","label":"Flow 1","disabled":false,"info":""},{"id":"533e9dac.d836b4","type":"debug","z":"f594890d.36a118","name":"","active":true,"tosidebar":true,"console":false,"tostatus":false,"complete":"false","x":340,"y":180,"wires":[]}]
