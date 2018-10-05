@@ -1,0 +1,12 @@
+{
+    "name": "FDMTEST",
+    "description": "THIS IS A TEST PROJECT",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_WINCTRL-EKC4Z97.json",
+            "credentialsFile": "flows_WINCTRL-EKC4Z97_cred.json"
+        }
+    }
+}
