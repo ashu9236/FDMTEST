@@ -5,8 +5,8 @@
     "dependencies": {},
     "node-red": {
         "settings": {
-            "flowFile": "flows_WINCTRL-EKC4Z97.json",
-            "credentialsFile": "flows_WINCTRL-EKC4Z97_cred.json"
+            "flowFile": "flows_DESKTOP-EK4ROUG.json",
+            "credentialsFile": "flows_DESKTOP-EK4ROUG_cred.json"
         }
     }
 }
