@@ -405,10 +405,10 @@
         "type": "function",
         "z": "be5f9cd7.118ca",
         "name": "",
-        "func": "msg.payload=\"asdasdassa\";\nmsg.data='asdgashds';\nreturn msg;",
+        "func": "msg.payload=\"asdasdassa\";\nmsg.topic=\"abcdef\";\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
-        "x": 260,
+        "x": 290,
         "y": 380,
         "wires": [
             []
